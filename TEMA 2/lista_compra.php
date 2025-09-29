@@ -8,6 +8,9 @@
 <body>
     <?php
     $compra =["peras", "manzana","platano"];
+    foreach($compra as $fruta){
+        echo "<li>$fruta</li>"
+    }
     ?>
 </body>
 </html>
