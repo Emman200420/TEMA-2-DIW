@@ -9,7 +9,7 @@
     <?php
     $compra =["peras", "manzana","platano"];
     foreach($compra as $fruta){
-        echo "<li>$fruta</li>"
+        echo "<li>$fruta</li>";
     }
     ?>
 </body>
