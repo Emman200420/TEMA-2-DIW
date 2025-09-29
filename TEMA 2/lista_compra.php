@@ -7,9 +7,28 @@
 </head>
 <body>
     <?php
-    $compra =["peras", "manzana","platano"];
-    foreach($compra as $fruta){
-        echo "<li>$fruta</li>";
+    $productos =[["nombre" => "Samsung", "precio" => 200], 
+    ["nombre" => "LG", "precio" => 1500], 
+    ["nombre" => "APPLE", "precio" => 1900]];
+    foreach($productos as $producto){
+        echo "
+        <table border ='1' >
+        
+        
+
+        <tr align = 'center'>
+        <td width ='100'>{$producto['nombre']}</td>
+        <td  width ='100' > {$producto['precio']}</td>
+        
+        </tr>
+       
+
+        
+
+        
+        
+        </table>
+        ";
     }
     ?>
 </body>
