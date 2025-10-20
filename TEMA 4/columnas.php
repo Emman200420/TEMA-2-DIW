@@ -46,11 +46,11 @@
     <div class="container mt-5">
         <div class="row">
             
-            <div class="col-3 bg-warning">4</div>
+            <div class="col-4 bg-warning">4</div>
            
-           <div class="col-3 bg-primary">8</div>
+           <div class="col-4 bg-primary">8</div>
          
-           <div class="col-3 bg-info">1 2</div>
+           <div class="col-4 bg-info">1 2</div>
 
         </div>
     </div>
@@ -58,9 +58,9 @@
     <div class="container mt-5">
         <div class="row">
             
-            <div class="col-4 bg-warning">6</div>
+            <div class="col-6 bg-warning">6</div>
            
-           <div class="col-4 bg-info">1 2</div>
+           <div class="col-6 bg-info">1 2</div>
 
         </div>
     </div>
@@ -68,7 +68,7 @@
      <div class="container mt-5">
         <div class="row">
      
-            <div class="col-3 bg-warning">6</div>
+            <div class="col-6 bg-warning">6</div>
      
            <div class="col-3 bg-info">9</div>
 
