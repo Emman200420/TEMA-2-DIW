@@ -9,18 +9,19 @@
 <body>
     <div class="container mt-5">
         <div class="row">
-            <div class="col-1 bg-danger">1</div>
-            <div class="col-1 bg-primary">2</div>
-            <div class="col-1 bg-success">3</div>
-            <div class="col-1 bg-warning">4</div>
-            <div class="col-1 bg-secondary">5</div>
-            <div class="col-1 bg-info">6</div>
-           <div class="col-1 bg-danger">7</div>
-           <div class="col-1 bg-primary">8</div>
-           <div class="col-1 bg-success">9</div>
-           <div class="col-1 bg-warning">1 0</div>
-           <div class="col-1 bg-secondary">1 1</div>
-           <div class="col-1 bg-info">1 2</div>
+<div class="col-1 bg-danger">1</div>     <!-- Red background: indicates danger or error -->
+<div class="col-1 bg-primary">2</div>    <!-- Blue background: primary action or highlight -->
+<div class="col-1 bg-success">3</div>    <!-- Green background: success or confirmation -->
+<div class="col-1 bg-warning">4</div>    <!-- Yellow background: warning or caution -->
+<div class="col-1 bg-secondary">5</div>  <!-- Gray background: secondary or neutral -->
+<div class="col-1 bg-info">6</div>       <!-- Teal/light blue background: informational -->
+
+<div class="col-1 bg-danger">7</div>     <!-- Red again -->
+<div class="col-1 bg-primary">8</div>    <!-- Blue again -->
+<div class="col-1 bg-success">9</div>    <!-- Green again -->
+<div class="col-1 bg-warning">1 0</div>  <!-- Yellow again -->
+<div class="col-1 bg-secondary">1 1</div><!-- Gray again -->
+<div class="col-1 bg-info">1 2</div>     <!-- Teal/light blue again -->
 
         </div>
     </div>
