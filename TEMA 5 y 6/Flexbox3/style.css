@@ -1,0 +1,28 @@
+body{
+    background: aqua;
+    margin:300px;
+}
+div{
+    border: 2px solid black;
+    opacity:0.8;
+    width:200px;
+    height: 200px;
+    background: blue;
+    margin-top: -100px;
+    margin-left: -100px;
+    position:relative;
+
+}
+
+div:first-child{
+background:yellow;
+z-index: 1;
+}
+div:nth-child(2){
+    background: rgb(244, 62, 92);
+    z-index: 2;
+}
+div:nth-child(2){
+    background: rgb(255, 0, 0);
+    z-index: 3;
+}

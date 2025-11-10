@@ -1,0 +1,51 @@
+body{
+    margin :0px;
+    background-color: red;
+}
+
+.container{
+    padding: 25px;
+    height:130px;
+    width:130px;
+    background: blue;
+    box-sizing:border-box;
+    font-size: 36px;
+    overflow:hidden;
+    margin-bottom: 20px;
+}
+
+.container2{
+    padding: 25px;
+    height:130px;
+    width:130px;
+    background: rgb(34, 209, 113);
+    box-sizing:border-box;
+    font-size: 36px;
+    overflow:visible;
+     margin-bottom: 20px;
+
+}
+
+.container3{
+    padding: 25px;
+    height:130px;
+    width:130px;
+    background: rgb(233, 215, 13);
+    box-sizing:border-box;
+    font-size: 36px;
+    overflow:scroll;
+     margin-bottom: 20px;
+
+}
+
+.container4{
+    padding: 25px;
+    height:130px;
+    width:130px;
+    background: rgb(234, 35, 234);
+    box-sizing:border-box;
+    font-size: 36px;
+    overflow:auto;
+     margin-bottom: 20px;
+
+}

@@ -1,0 +1,36 @@
+body{
+    background: aqua;
+
+}
+
+section{
+    position:relative;
+    width: 500px;
+    height:500px;
+    background: rgb(246, 198, 5); 
+    margin:0 auto;
+}
+
+.box1{
+
+    width: 100px;
+    height:100px;
+    background: pink;
+    position:relative;
+    right:auto;
+
+}
+.box2{
+
+    width: 100px;
+    height:100px;
+    background: whitesmoke;
+    position:sticky;
+
+}
+.box3{
+    width: 100px;
+    height:100px;
+    background: green;
+    left:auto;
+}
