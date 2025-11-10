@@ -10,7 +10,7 @@
     <header>
 <nav class="navbar navbar-expand-lg bg-primary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
+            <a class="navbar-brand" href="#">Cat blogs</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -67,31 +67,31 @@
 <br>
 <br>
 <section>
-<center><h1>Cartas</h1></center>
+<center><h1>My Clients.</h1></center>
 <div class="container">
     <div class="row g-4 g-sm-6 g-lg-8">
         <div class="col-12 col-sm-6 col-lg-3">
             <div class="bg-primary p-3 p-sm-4 p-lg-5 h-100">
                 <img src="Cat2.jpg" class="img-fluid d-block mx-auto mb-3" alt="...">
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
+                <p class="mb-0"><strong>Oreo </strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
             </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3">
             <div class="bg-primary p-3 p-sm-4 p-lg-5 h-100">
                 <img src="Cat3.jpg" class="img-fluid d-block mx-auto mb-3" alt="...">
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
+                <p class="mb-0"><strong>Honey bee </strong> ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
             </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3">
             <div class="bg-primary p-3 p-sm-4 p-lg-5 h-100">
                 <img src="Cat4.jpg" class="img-fluid d-block mx-auto mb-3" alt="...">
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
+                <p class="mb-0"><strong>Beanie </strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
             </div>
         </div>
         <div class="col-12 col-sm-6 col-lg-3">
-            <div class="bg-primary p-3 p-sm-4 p-lg-5 h-100">
+            <div class="bg-primary p-3 p-sm-4 p-lg-5 h-100 ">
                 <img src="Cat5.jpg" class="img-fluid d-block mx-auto mb-3" alt="...">
-                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
+                <p class="mb-0"><strong>Milky </strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ad nulla, fugit nihil obcaecati accusamus magnam rerum recusandae et amet.</p>
             </div>
         </div>
     </div>
