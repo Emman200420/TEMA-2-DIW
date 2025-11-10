@@ -1,0 +1,49 @@
+
+$colorPrimario: rgb(244, 27, 63);
+$colorSecundario: gold; 
+
+@mixin colornegro() {
+    background: black;
+}
+
+@mixin cambiarcolor($color) { 
+    background: $color;
+}
+
+div {
+    text-align: center;
+    
+    a {
+        text-decoration: none;
+        font-size: 20px;
+        color: $colorPrimario;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+body {
+    @include colornegro();
+}
+
+.articulo {
+    @include cambiarcolor($colorSecundario); 
+    padding: 20px;
+
+    .titulo {
+        color: black;
+    }
+
+    .autor {
+        color: $colorPrimario;
+        
+        p {
+            a {
+                text-decoration: none;
+            }
+        }
+    }
+}
+

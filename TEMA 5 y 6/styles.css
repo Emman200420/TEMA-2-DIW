@@ -1,0 +1,29 @@
+div {
+  text-align: center;
+}
+div a {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(244, 27, 63);
+}
+div a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background: black;
+}
+
+.articulo {
+  background: gold;
+  padding: 20px;
+}
+.articulo .titulo {
+  color: black;
+}
+.articulo .autor {
+  color: rgb(244, 27, 63);
+}
+.articulo .autor p a {
+  text-decoration: none;
+}/*# sourceMappingURL=styles.css.map */
